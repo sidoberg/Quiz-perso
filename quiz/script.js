@@ -30,7 +30,7 @@ window.onload = function()
         }
     }
 
-   var tab = ["Tomz","Erwan", "Megane", "SidoBerg", "Aleex", "Mugiwawa", "Saphir", "Antho"];
+   var tab = ["Guims", "ALex", "Virus", "Thomz", "Lilia", "Mugi", "Sido", "Saphir"];
    tab.forEach(element => {
     creatScore(element);
    });
